@@ -1,4 +1,4 @@
-![PythonBlockchain](https://github.com/user-attachments/assets/0ebeee39-7193-48ce-b90f-aee3bceb5dd2)
+![PythonBlockchain](https://github.com/user-attachments/assets/f03585cf-b903-459b-9116-35e239f431e6)
 
 ## Python Blockchain 🐍
 Welcome to the **Python blockchain project**. 🧑🏻‍💻\
